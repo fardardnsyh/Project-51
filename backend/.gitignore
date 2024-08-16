@@ -1,0 +1,8 @@
+/src/node_modules
+/src/package-lock.json
+package-lock.json
+noderun.js
+
+### SAM ###
+.aws-sam/
+samconfig.toml
